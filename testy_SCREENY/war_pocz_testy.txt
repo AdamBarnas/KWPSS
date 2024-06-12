@@ -1,0 +1,12 @@
+histereza, h1min, h1max,h2min,h2max, max.control
+2,25,30,10,25,200
+H1,H2,C1,C2
+0,0,32,32 (scen 1)
+0,40,32,32 (scen 2)
+27,40,32,32 (scen 3)
+40,20,32,32 (scen 4)
+40,40,32,32 (scen 5)
+40,35,32,5 (scen 6)
+
+
+UWAGA: dodać do prezentacji schemat działania układu (to co rysował Adam na tablicy)
